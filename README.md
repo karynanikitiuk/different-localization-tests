@@ -1,2 +1,2 @@
 # different-localization-tests
-Tests witch run with different language brouser
+Tests which run with different language browser
